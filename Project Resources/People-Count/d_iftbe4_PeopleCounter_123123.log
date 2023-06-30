@@ -1,0 +1,10 @@
+2023-05-20 22:00:37,157   ibmiotf.device.Client      CRITICAL Not authorized: s (d:iftbe4:PeopleCounter:123123, use-token-auth, 12341234)
+2023-05-20 22:01:06,811   ibmiotf.device.Client      CRITICAL Operation timed out connecting to IBM Watson IoT Platform: iftbe4.messaging.internetofthings.ibmcloud.com
+2023-05-20 22:01:40,357   ibmiotf.device.Client      CRITICAL Not authorized: s (d:iftbe4:PeopleCounter:123123, use-token-auth, 12341234)
+2023-05-20 22:02:10,103   ibmiotf.device.Client      CRITICAL Operation timed out connecting to IBM Watson IoT Platform: iftbe4.messaging.internetofthings.ibmcloud.com
+2023-05-20 23:00:28,898   ibmiotf.device.Client      CRITICAL Not authorized: s (d:iftbe4:PeopleCounter:123123, use-token-auth, 12341234)
+2023-05-20 23:00:58,638   ibmiotf.device.Client      CRITICAL Operation timed out connecting to IBM Watson IoT Platform: iftbe4.messaging.internetofthings.ibmcloud.com
+2023-05-20 23:02:46,808   ibmiotf.device.Client      CRITICAL Not authorized: s (d:iftbe4:PeopleCounter:123123, use-token-auth, 12341234)
+2023-05-20 23:03:16,457   ibmiotf.device.Client      CRITICAL Operation timed out connecting to IBM Watson IoT Platform: iftbe4.messaging.internetofthings.ibmcloud.com
+2023-05-20 23:05:46,278   ibmiotf.device.Client      CRITICAL Not authorized: s (d:iftbe4:PeopleCounter:123123, use-token-auth, 12341234)
+2023-05-20 23:06:15,943   ibmiotf.device.Client      CRITICAL Operation timed out connecting to IBM Watson IoT Platform: iftbe4.messaging.internetofthings.ibmcloud.com
